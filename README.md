@@ -26,14 +26,14 @@ Gloves that light up when people high-five (while wearing them)
 
 ## Digital Textile Switche — Push Button
 
-[Video of Push Button switch]()
+[Video of Push Button switch](https://youtu.be/u5juk2gzURs)
 
 <img width="780" alt="Screenshot 2023-11-20 at 11 55 55 PM" src="https://github.com/daniaezz/textileInterfaces/assets/90758857/3589a848-106b-49bd-93a2-d6c68a13130e">
 
 **Egg push button switch**
 
 ## Digital Textile Switch — Shared ground 
-[Video of  sharde ground switch]()
+[Video of  sharde ground switch](https://youtube.com/shorts/honb7c7kk2E)
 
 <img width="782" alt="Screenshot 2023-11-20 at 11 57 38 PM" src="https://github.com/daniaezz/textileInterfaces/assets/90758857/40adcde5-f5f0-4cb3-8911-61e738b3fcdf">
 
@@ -65,6 +65,6 @@ The materials used for this controller are as follows:
 - copper tape
 - 10k ohm resistors
 
-While working on this controller, the most difficult part was figuring out the correct thresholds for each of the balls as the value change in the resitance is minimal and often after using the controller for some time, the fibers move out of the ball or further into the ball, changing this threshold for the resistance
+While working on this controller, the most difficult part was figuring out the correct thresholds for each of the balls as the value change in the resitance is minimal and often after using the controller for some time, the fibers move out of the ball or further into the ball, changing this threshold for the resistance. To solve this issue, my next step would be attempting to crochet a completely closed ball that has holes to attatch the alligator clips.
   
 
