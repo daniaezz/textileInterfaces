@@ -1,5 +1,5 @@
 # Textile Interfaces
-blog for the textile interfaces fall 2023!
+Blog documentation for the textile interfaces fall 2023!
 
 ## E-Textile Tester
 Aligator Clips connected to an led and a switch coin cell battery holder to create a circuit tester!
@@ -29,4 +29,9 @@ Gloves that light up when people high-five (while wearing them)
 Analog sensor made using conductive yarn crocheted into a small circle
 
 [Analog sensor video](https://youtube.com/shorts/IDbbuB5pTy0?feature=share)
+
+## Textile Game Controller — CroBall Duo 
+
+The CroBall Duo is a handheld game controller consisting of 2 crocheted balls - one green and one orange. This controller acts as an analog sensor and uses conductive fibers as a type of resistor. The controller works by squishing each ball to move up or down. By squishing the balls, the resitance of the fibers decreases and this is later on translated into the up - down motion for the ping-pong game where the green ball moves the platform upwards and the orange ball moves it downwards.
+
 
