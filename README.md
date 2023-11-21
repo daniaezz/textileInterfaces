@@ -45,6 +45,9 @@ Analog sensor made using conductive yarn crocheted into a small circle
 
 [Analog sensor video](https://youtube.com/shorts/IDbbuB5pTy0?feature=share)
 
+<img width="778" alt="Screenshot 2023-11-20 at 11 58 57 PM" src="https://github.com/daniaezz/textileInterfaces/assets/90758857/1ccc9a53-a1d9-42f8-8b34-8ac4207bf7f4">
+
+
 ## Textile Game Controller — CroBall Duo 
 
 [Video of controller and ping-pong game](https://youtube.com/shorts/zWuDZS2cLWk?feature=share)
