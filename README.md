@@ -23,3 +23,10 @@ Gloves that light up when people high-five (while wearing them)
 <img width="754" alt="Screenshot 2023-11-20 at 11 23 12 PM" src="https://github.com/daniaezz/textileInterfaces/assets/90758857/358b1d7a-5e8c-4fd7-8606-5bef8e4a04a7">
 
 **lighting up after high-five-ing**
+
+## Analog Textile Sensor
+
+Analog sensor made using conductive yarn crocheted into a small circle
+
+[Analog sensor video](https://youtube.com/shorts/IDbbuB5pTy0?feature=share)
+
