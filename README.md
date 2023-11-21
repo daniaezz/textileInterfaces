@@ -24,6 +24,14 @@ Gloves that light up when people high-five (while wearing them)
 
 **lighting up after high-five-ing**
 
+## Digital Textile Switche — Push Button
+
+[Video of Push Button switch]()
+
+<img width="780" alt="Screenshot 2023-11-20 at 11 55 55 PM" src="https://github.com/daniaezz/textileInterfaces/assets/90758857/3589a848-106b-49bd-93a2-d6c68a13130e">
+
+**Egg push button switch**
+
 ## Analog Textile Sensor
 
 Analog sensor made using conductive yarn crocheted into a small circle
