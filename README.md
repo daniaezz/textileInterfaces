@@ -32,6 +32,13 @@ Gloves that light up when people high-five (while wearing them)
 
 **Egg push button switch**
 
+## Digital Textile Switch — Shared ground 
+[Video of  sharde ground switch]()
+
+<img width="782" alt="Screenshot 2023-11-20 at 11 57 38 PM" src="https://github.com/daniaezz/textileInterfaces/assets/90758857/40adcde5-f5f0-4cb3-8911-61e738b3fcdf">
+
+**shared ground buttons using different shapes to mark the buttons**
+
 ## Analog Textile Sensor
 
 Analog sensor made using conductive yarn crocheted into a small circle
